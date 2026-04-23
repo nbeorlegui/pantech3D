@@ -519,7 +519,7 @@ function Overlay() {
       <section className="panel" id="hero">
         <div className="copy">
           <div className="eyebrow">Software Factory</div>
-          <h1 className="title">Creamos experiencias digitales, software y automatizaciones que <span className="grad">hacen crecer negocios.</span></h1>
+          <h1 className="title">Hola Gonzzi jiji, software y automatizaciones que <span className="grad">hacen crecer negocios.</span></h1>
           <p className="lead">Este prototipo cuenta una historia con scroll: notebook 3D, entrada a pantalla, robot de IA, dashboards animados y un lenguaje visual continuo tipo premium WebGL.</p>
           <div className="actions">
             <a className="btn primary" href="#software">Ver transición</a>
